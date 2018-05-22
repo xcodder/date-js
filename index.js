@@ -53,9 +53,12 @@ class DateJs {
   }
 }
 
+/*
+Use example:
 let date = new DateJs()
 date.year = 2019
 date.month = 1
 date.day = 1
 
 console.log(date.format('dd/mm/y, hh:ss:mil'))
+*/
